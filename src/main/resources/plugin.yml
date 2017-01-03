@@ -1,0 +1,9 @@
+name: ${artifactId}
+main: ${mainClass}
+version: ${project.version}
+author: ${author}
+authors: [${authors}]
+description: ${project.description}
+depend: [${hardDepend}]
+softdepend: [${softDepend}]
+#################################################################################################
